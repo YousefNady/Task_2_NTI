@@ -1,0 +1,62 @@
+*{
+    background-color: #11cfcf;
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 35px;
+}
+.NameEmail{
+    display: block;
+    background-color: white;
+    width: 570px;
+    height: 70px;
+    padding-left: 15px;
+    border-radius: 10px;
+    border-color: #11cfcf;
+    border-style: solid;
+}
+.Company-Phone{
+    display: inline-block;
+    background-color: white;
+        width: 267.5px;
+        height: 70px;
+        padding-left: 15px;
+        border-radius: 10px;
+        border-color: #11cfcf;
+        border-style: solid;
+}
+#BIG-Message{
+    display: block;
+        background-color: white;
+        width: 570px;
+        height: 140px;
+        padding-left: 15px;
+        border-radius: 10px;
+        border-color: #11cfcf;
+        border-style: solid;
+}
+#submit-botton{
+    color:black;
+    text-align: center;
+    margin-left: 333px;
+            background-color: #ffeb3e;
+            width: 267.5px;
+            height: 70px;
+            padding-left: 30px;
+            border-radius: 10px;
+            border-color: #11cfcf;
+            border-style: solid;
+}
+
+#fulltable{
+    position: absolute;
+        text-transform: uppercase;
+    right: 10%;
+        top: 176px;
+}
+
